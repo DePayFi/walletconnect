@@ -1,0 +1,28 @@
+{
+  "name": "walletconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx webpack --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DePayFi/walletconnect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DePayFi/walletconnect/issues"
+  },
+  "homepage": "https://github.com/DePayFi/walletconnect#readme",
+  "devDependencies": {
+    "webpack": "^5.55.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "@walletconnect/client": "^1.6.5",
+    "@walletconnect/qrcode-modal": "^1.6.5"
+  }
+}
