@@ -1,5 +1,5 @@
 {
-  "name": "walletconnect",
+  "name": "@depay/walletconnect",
   "version": "1.0.0",
   "description": "WalletConnect browser pre-built usable in rollup bundles.",
   "main": "index.js",
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/DePayFi/walletconnect.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["walletconnect", "rollup"],
+  "author": "https://depay.fi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DePayFi/walletconnect/issues"
