@@ -5,6 +5,11 @@ As WalletConnect 1.6.5 does not build with rollup, this a a webpack browser pre-
 This only exports `WalletConnect` and `QRCodeModal`.
 
 ## Development
+
 ```
 npm run-script build
+```
+
+```
+npm publish --access public
 ```

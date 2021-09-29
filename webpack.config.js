@@ -1,5 +1,10 @@
 module.exports = {
   output: {
-    filename: 'index.js'
+    filename: 'index.js',
+    library: 'WalletConnect',
+    libraryTarget: 'umd'
+  },
+  node: {
+    Buffer: true
   }
 }
