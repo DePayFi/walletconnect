@@ -1,7 +1,7 @@
 {
   "name": "walletconnect",
   "version": "1.0.0",
-  "description": "",
+  "description": "WalletConnect browser pre-built usable in rollup bundles.",
   "main": "index.js",
   "scripts": {
     "build": "npx webpack --mode=production"
