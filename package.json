@@ -1,6 +1,6 @@
 {
   "name": "@depay/walletconnect-v1",
-  "version": "1.7.9",
+  "version": "1.7.10",
   "description": "WalletConnect browser pre-built usable in rollup bundles.",
   "main": "dist/umd/index.js",
   "module": "dist/esm/index.js",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/DePayFi/walletconnect/issues"
   },
-  "homepage": "https://github.com/DePayFi/walletconnect#readme",
+  "homepage": "https://depay.com",
   "devDependencies": {
     "@purtuga/esm-webpack-plugin": "^1.5.0",
     "webpack": "^4.46.0",
