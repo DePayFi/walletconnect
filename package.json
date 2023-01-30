@@ -1,6 +1,6 @@
 {
   "name": "@depay/walletconnect-v1",
-  "version": "1.7.10",
+  "version": "1.8.0",
   "description": "WalletConnect browser pre-built usable in rollup bundles.",
   "main": "dist/umd/index.js",
   "module": "dist/esm/index.js",
@@ -27,7 +27,7 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "@walletconnect/client": "^1.7.8",
-    "@walletconnect/qrcode-modal": "^1.7.8"
+    "@walletconnect/client": "^1.8.0",
+    "@walletconnect/qrcode-modal": "^1.8.0"
   }
 }
